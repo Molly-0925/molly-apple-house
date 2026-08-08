@@ -1,5 +1,5 @@
-// Molly 的苹果屋 service worker v5
-const CACHE = "molly-apple-house-v5";
+// Molly 的苹果屋 service worker v6 (主题功能 fix)
+const CACHE = "molly-apple-house-v6";
 const ASSETS = [
     "./",
     "./index.html",
