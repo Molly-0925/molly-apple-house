@@ -1,5 +1,5 @@
-// Molly 的苹果屋 service worker
-const CACHE = "molly-apple-house-v4";
+// Molly 的苹果屋 service worker v5
+const CACHE = "molly-apple-house-v5";
 const ASSETS = [
     "./",
     "./index.html",
@@ -7,6 +7,8 @@ const ASSETS = [
     "./manifest.json",
     "./icon-192.png",
     "./icon-512.png",
+    "./icon-maskable-192.png",
+    "./icon-maskable-512.png",
     "./apple-touch-icon.png",
     "./favicon-molly.png"
 ];
